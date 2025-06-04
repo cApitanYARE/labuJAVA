@@ -1,4 +1,4 @@
 # lab7
 
-![Screenshot](https://github.com/cApitanYARE/labuJAVA/raw/main/lab7/1.png)
+![Screenshot](https://raw.githubusercontent.com/cApitanYARE/labuJAVA/main/lab7/1.png)
 
