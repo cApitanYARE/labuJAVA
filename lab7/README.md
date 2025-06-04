@@ -10,5 +10,6 @@
 ![Screenshot](https://raw.githubusercontent.com/cApitanYARE/labuJAVA/main/lab7/7.jpg)
 ![Screenshot](https://raw.githubusercontent.com/cApitanYARE/labuJAVA/main/lab7/8.jpg)
 ![Screenshot](https://raw.githubusercontent.com/cApitanYARE/labuJAVA/main/lab7/9.jpg)
+# Після натиску на кнопку "Перезапустити програму"
 ![Screenshot](https://raw.githubusercontent.com/cApitanYARE/labuJAVA/main/lab7/10.jpg)
 
